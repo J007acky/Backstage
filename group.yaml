@@ -1,7 +1,7 @@
 apiVersion: backstage.io/v1alpha1
 kind: Group
 metadata:
-  name: dev-plat
+  name: devplat
   description: This is a Group for DevPlat team
 spec:
   type: team
