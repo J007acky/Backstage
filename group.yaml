@@ -1,0 +1,12 @@
+apiVersion: backstage.io/v1alpha1
+kind: Group
+metadata:
+  name: dev-plat
+  description: This is a Group for DevPlat team
+spec:
+  type: team
+  profile:
+    displayName: Developer Platform
+    email: infrastructure@example.com
+    picture: 'https://cdn-1.webcatalog.io/catalog/devpost/devpost-icon-filled-256.webp?v=1717059982080'
+  members: [J007acky]
