@@ -9,4 +9,5 @@ spec:
     displayName: Developer Platform
     email: infrastructure@example.com
     picture: 'https://cdn-1.webcatalog.io/catalog/devpost/devpost-icon-filled-256.webp?v=1717059982080'
+  children: []
   members: [J007acky]
