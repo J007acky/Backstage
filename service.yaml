@@ -1,0 +1,6 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: Practice-Pipeline
+  annotations:
+    jenkins.io/job-full-name: teamA/Practice-Pipeline
