@@ -7,4 +7,4 @@ spec:
 metadata:
   name: Practice-Pipeline
   annotations:
-    jenkins.io/job-full-name: teamA/Practice-Pipeline
+    jenkins.io/job-full-name: Practice
