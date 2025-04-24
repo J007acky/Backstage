@@ -7,4 +7,4 @@ spec:
 metadata:
   name: Practice-Pipeline
   annotations:
-    jenkins.io/job-full-name: CFN_pipeline
+    jenkins.io/job-full-name: CFN_pipeline,dind-Pipeline
