@@ -5,7 +5,7 @@ spec:
   lifecycle: experimental
   owner: j007acky
 metadata:
-  name: Practice-Pipeline
+  name: Infra-Daas
   annotations:
     jenkins.io/job-full-name: "wg-deployment-github-adapter-test-nasingh-wc8060"
     'jenkins.io/override-base-url': 'https://jenkins.infra.int.daas-watchguard.com/infrastructure-master'
