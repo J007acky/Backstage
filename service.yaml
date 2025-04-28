@@ -7,4 +7,4 @@ spec:
 metadata:
   name: Infra-Daas
   annotations:
-    jenkins.io/job-full-name: "infra:wg-deployment-github-adapter-test-nasingh-wc8060"
+    jenkins.io/job-full-name: "infra:Tools,%20Monitoring,%20and%20Alerts/wg-ami-builder"
