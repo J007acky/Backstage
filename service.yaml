@@ -8,3 +8,4 @@ metadata:
   name: Practice-Pipeline
   annotations:
     jenkins.io/job-full-name: "wg-deployment-github-adapter-test-nasingh-wc8060"
+    'jenkins.io/override-base-url': 'https://jenkins.infra.int.daas-watchguard.com/infrastructure-master'
