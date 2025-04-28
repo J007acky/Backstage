@@ -1,0 +1,10 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+spec:
+  type: service
+  lifecycle: experimental
+  owner: j007acky
+metadata:
+  name: Practice-Pipeline
+  annotations:
+    jenkins.io/job-full-name: "CFN_pipeline"
