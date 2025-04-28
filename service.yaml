@@ -7,4 +7,4 @@ spec:
 metadata:
   name: Practice-Pipeline
   annotations:
-    jenkins.io/job-full-name: "Tools,%20Monitoring,%20and%20Alerts/wg-ami-builder"
+    jenkins.io/job-full-name: "Tools%2C%20Monitoring%2C%20and%20Alerts/wg-ami-builder"
