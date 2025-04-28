@@ -7,4 +7,4 @@ spec:
 metadata:
   name: Infra-Daas
   annotations:
-    jenkins.io/job-full-name: "infra:Tools\, Monitoring\, and Alerts/wg-ami-builder"
+    jenkins.io/job-full-name: infra:"Tools, Monitoring, and Alerts"/wg-ami-builder
