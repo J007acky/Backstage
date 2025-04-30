@@ -1,0 +1,13 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: controller-b
+  description: Jenkins for Team B
+  annotations:
+    jenkins.io/controller: 'true'
+    team: team-b
+    jenkins.io/url: https://jenkins.example.com/controller-b
+spec:
+  type: ci
+  lifecycle: production
+  owner: DevPlat
