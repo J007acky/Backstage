@@ -1,10 +1,12 @@
 apiVersion: backstage.io/v1alpha1
-kind: jenkinsController
+kind: Component
 metadata:
   name: controller-a
-  description: Build and deploy for Team Alpha
+  description: Jenkins for Team A
   annotations:
-    backstage.io/managed-by-location: url:https://jenkins.example.com/controller-a
-    team: alpha-team
+    jenkins.io/controller: 'true'
+    team: team-a
+    jenkins.io/url: https://jenkins.example.com/controller-a
 spec:
-  type: ci-pipeline
+  type: ci
+  lifecycle: production
