@@ -1,0 +1,13 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: controller-c
+  description: Jenkins for Team C
+  annotations:
+    jenkins.io/controller: 'true'
+    team: team-c
+    jenkins.io/url: https://jenkins.infra.int.daas-watchguard.com/infrastructure-master/
+spec:
+  type: ci
+  lifecycle: production
+  owner: DevPlat
