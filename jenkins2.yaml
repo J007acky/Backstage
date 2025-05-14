@@ -6,7 +6,7 @@ metadata:
   annotations:
     jenkins.io/controller: 'true'
     team: team-b
-    jenkins.io/url: https://jenkins.example.com/controller-b
+    jenkins.io/url: https://jenkins.infra.int.daas-watchguard.com/infrastructure-master/
 spec:
   type: ci
   lifecycle: production
